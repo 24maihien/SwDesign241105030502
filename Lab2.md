@@ -118,3 +118,5 @@ Phân tích kiến trúc và ca sử dụng hệ thống **"Payroll System"** d�
 
 ## 1.3. Biểu đồ lớp với các lớp Boundary, Control, Entity
 
+
+
